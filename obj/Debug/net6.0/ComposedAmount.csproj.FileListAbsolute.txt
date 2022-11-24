@@ -1,0 +1,15 @@
+C:\dev\ComposedAmount\bin\Debug\net6.0\ComposedAmount.exe
+C:\dev\ComposedAmount\bin\Debug\net6.0\ComposedAmount.deps.json
+C:\dev\ComposedAmount\bin\Debug\net6.0\ComposedAmount.runtimeconfig.json
+C:\dev\ComposedAmount\bin\Debug\net6.0\ComposedAmount.dll
+C:\dev\ComposedAmount\bin\Debug\net6.0\ComposedAmount.pdb
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.csproj.AssemblyReference.cache
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.GeneratedMSBuildEditorConfig.editorconfig
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.AssemblyInfoInputs.cache
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.AssemblyInfo.cs
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.csproj.CoreCompileInputs.cache
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.dll
+C:\dev\ComposedAmount\obj\Debug\net6.0\refint\ComposedAmount.dll
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.pdb
+C:\dev\ComposedAmount\obj\Debug\net6.0\ComposedAmount.genruntimeconfig.cache
+C:\dev\ComposedAmount\obj\Debug\net6.0\ref\ComposedAmount.dll
